@@ -224,3 +224,4 @@ def _gf2_multiplication_symbolic() -> GF2Multiplication:
 _GF2_MULTIPLICATION_DOC = BloqDocSpec(
     bloq_cls=GF2Multiplication, examples=(_gf16_multiplication, _gf2_multiplication_symbolic)
 )
+
